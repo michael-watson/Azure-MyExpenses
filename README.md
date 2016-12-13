@@ -5,6 +5,13 @@ Xamarin.Forms Ninja
 
 This application is an example of a Xamarin.Forms mobile applicaiton connected to Azure Active Directory and utilizes an Azure Mobile App Backend.
 
+### Additional Training Materials
+* [Xamarin.Forms Book](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/preview-2/)
+    * This is the best place to start for Xamarin.Forms development
+* [Develop Cloud Connected Mobile Apps with Xamarin and Microsoft Azure](https://adrianhall.github.io/develop-mobile-apps-with-csharp-and-azure/)
+    * This is the best place to start out for Xamarin and Azure
+
+### Installation Requirements
 In order to run this example, you will need to have the following at a minimum:  
 
 * Visual Studio Community Edition
