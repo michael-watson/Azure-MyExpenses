@@ -55,6 +55,9 @@ The Xamarin.Forms applicaiton has the following projects in it:
 * Android Project
 * UITest Project
     * Every mobile project should have UI tests in it
+    * [REPL](https://developer.xamarin.com/guides/testcloud/uitest/working-with/repl/) and [Xamarin Test Recroder](https://www.xamarin.com/test-cloud/recorder) are two ways of creating UI tests
+    * Xamarin Test Cloud enables you to take UI Tests you have created in C#, Calabash or Appium Java and run them on thousands of devices.
+    * [Test run in Xamarin Test Cloud](https://testcloud.xamarin.com/test/myexpenses_2c56a6be-00c9-457a-8b1c-2453ff272fa7/) for this application
 
 Xamarin.Forms enables us to utilize the Xamarin.iOS and Xamarin.Android libraries to share not only out backend/services code, but also our UI code. Xamarin.Forms abstracts each control to the platform specific control being targetted. 
 
