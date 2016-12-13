@@ -12,9 +12,9 @@ namespace MyExpenses
 	public class AppViewModel : BaseViewModel
 	{
 		public static string authority = "https://login.windows.net/common";
-		public static string ResourceID = "20a6c077-f71e-4828-8dc7-f82b8f49575c";//MyExpenses-Backend
-		public static string clientId = "306556bc-f2e5-47dc-82ee-d0b4481a7238";//MyExpenses native app
-		public static string returnUri = "https://myexpenses-backend.azurewebsites.net/.auth/login/done";
+		public static string ResourceID = "Backend ClientId";//MyExpenses-Backend
+		public static string clientId = "Native App ClientId";//MyExpenses native app
+		public static string returnUri = "https://{My Azure Site}.azurewebsites.net/.auth/login/done";
 
 		public bool IsLoggedIn;
 		public string access_token;
